@@ -1,1 +1,9 @@
-import sys\n\ndef main():\n    print("Hello from GitHub!")\n    print(f"Python version: {sys.version}")\n    print("This script was successfully retrieved and executed by Manus.")\n\nif __name__ == "__main__":\n    main()
+import sys
+
+def main():
+    print("Hello from GitHub!")
+    print(f"Python version: {sys.version}")
+    print("This script was successfully retrieved and executed by Manus.")
+
+if __name__ == "__main__":
+    main()
